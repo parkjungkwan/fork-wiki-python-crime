@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c811ba02-fcf9-4f19-b2dc-d52622c7f15b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/seoul_crime/data/police_position.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seoul_crime/crime_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/crime_map.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seoul_crime/data_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/data_reader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
